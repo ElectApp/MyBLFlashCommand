@@ -27,7 +27,7 @@ MyBLFlashCommand.exe --interface=uart --chipname=bl616 --port=COM11 --baudrate=2
 1. Download my_bflb_flash_tools_v1.0.4.zip from the lastest release version on Github, extract the files and copy the folder to C:\Users\{username}\AppData\Local\Arduino15\packages\bouffalolab\tools\bflb_flash_tools
 2. Go to the folder as in step 1 (bflb_flash_tools)
 2.1 Change the folder name from 1.0.7 to 1.0.7_master
-2.2 Change the phone name from my_bouffalo_flash_cube_v1.0.4 is 1.0.7
+2.2 Change the folder name from my_bflb_flash_tools_v1.0.4 to 1.0.7
 3. Copy the platform.txt file and rename it platform.txt.master from C:\Users\{username}\AppData\Local\Arduino15\packages\bouffalolab\hardware\bouffalolab\1.0.5
 4. Edit the platform.txt file as follows.
 ```sh
